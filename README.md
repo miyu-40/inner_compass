@@ -7,6 +7,9 @@ Chat GPTが理想の上司となって、現在立ち向かってる困難な状
 ### ■画面遷移図
 Figma：https://www.figma.com/file/1mTdQdwdl248G26xx2s3h9/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0%3A1&t=kJyPWgHe2Gr3P0xi-1
 
+### ■ER図
+draw.io：https://drive.google.com/file/d/175NYeVNsr5_KLSS37XR93r0AAbQ37JuZ/view?usp=sharing
+
 ### ■メインのターゲットユーザー
 - 自分を責めてしまったり否定してしまって、何かを始めることや目標を立てることに臆病・不安・心配になってしまっている人
 - 将来のことをマイナスに考えて、今のアクションプランを立てるのが苦手な人
